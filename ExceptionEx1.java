@@ -11,7 +11,7 @@ public class ExceptionEx1 {
 			// 예외가 발생할 가능성이 있는 문장들을 이 안에 넣는 것.
 			try {  } catch (Exception e) {  }
 		} catch (Exception e) {
-			try {  } catch (Exception e) {  }	// 에러. 변수 e가 중복 선언됨.
+			// try {  } catch (Exception e) {  }	// 에러. 변수 e가 중복 선언됨.
 		}										// 각 catch블럭에 선언된 두 참조변수의 영역이 서로 겹쳐서.
 		
 		try {
