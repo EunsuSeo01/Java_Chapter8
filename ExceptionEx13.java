@@ -1,5 +1,5 @@
 /**
- * 예외 처리 후 printStackTrace()를 사용하여 예외가 발생한 곳을 알아보는 예제.
+ * 예외가 발생한 메서드 내에서 예외를 처리한 경우의 예제.
  * @author user EunSu Seo
  * last modified 2021-09-09
  */
