@@ -1,5 +1,5 @@
 /**
- * 사용자 정의 예외 예제.
+ * 사용자정의 예외 클래스 사용 예제.
  * @author user EunSu Seo
  * last modified 2021-09-11
  */
